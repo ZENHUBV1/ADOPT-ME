@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ZENHUBV1/AdoptMe2025-/refs/heads/main/jhonsteffjhonny.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ZENHUBV1/ADOPT-ME/refs/heads/main/Scriptt.txt'))()
