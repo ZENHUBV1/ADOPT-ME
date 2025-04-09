@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ichessfleischv2/Mintyhub/refs/heads/main/uujkj0.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ichessfleischv2/VOIDHUB/refs/heads/main/PAhsjsjs.txt"))()
