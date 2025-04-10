@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZENHUBV1/Adoptme-Spawner/refs/heads/main/Spawner.txt"))()
